@@ -41,7 +41,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="./images/glass-girl.gif"  />
+  <img width="554.46" src="./images/glass-girl.gif"  />
 </div>
 
 ###
