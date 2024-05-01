@@ -41,7 +41,14 @@
 ###
 
 <div align="center">
-  <img height="150" src="./images/glass-girl.gif"  />
+  <img height="300" src="./images/glass-girl.gif"  />
 </div>
+
+###
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
