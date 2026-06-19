@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Tran Quoc Chinh <br><br>- 🔭I'm studying at Hanoi University Mining and Geology<br>- 📚 Visual novel enthusiast partime</p>
+<p align="left">I'm Tran Quoc Chinh <br><br>- 🔭I'm studying at Hanoi University Mining and Geology<br></p>
 
 ###
 
@@ -40,11 +40,6 @@
 
 ###
 
-<div align="center">
-  <img width="554.46" src="./images/glass-girl.gif"  />
-</div>
-
-###
 
 <img src="https://raw.githubusercontent.com/Watermakerr/Watermakerr/output/snake.svg" alt="Snake animation" />
 
